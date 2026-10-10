@@ -1,0 +1,6 @@
+{
+  "name": "পবিত্র আল-কুরআন শরীফ",
+  "description": "পবিত্র কুরআন শরীফের সম্পূর্ণ ৩০ পারা ও ১১৪টি সূরা, আরবি পাঠ, বাংলা অনুবাদ, অডিও তিলাওয়াত, শেষ পঠিত স্থান ও ইসলামিক আমল সম্বলিত পূর্ণাঙ্গ অ্যাপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
